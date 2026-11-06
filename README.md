@@ -1,7 +1,7 @@
 # Production-Style Inventory Management REST API
 
 ## Project Overview
-This project is a Python Flask-based Inventory Management REST API that allows users to manage products through CRUD operations.
+this project is a Python Flask-based Inventory Management REST API that allows users to manage products through CRUD operations.
 
 It is developed as a hands-on Cloud and DevOps portfolio project to practice application development, automated testing, Git version control, and CI/CD workflows.
 
